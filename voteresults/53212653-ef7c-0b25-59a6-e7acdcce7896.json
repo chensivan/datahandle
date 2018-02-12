@@ -1,0 +1,215 @@
+[
+  {
+    "snapId": "globallivestory~42ee062e8d7a8640915f0bf0b3a0633a",
+    "originalTimestamp": 1516839758023,
+    "timestamp": 1516839758023,
+    "userTimestamp": 1516839737128,
+    "captureTimestamp": 1516839704519,
+    "bestTimestamp": 1516839704000,
+    "lat": 48.8507615,
+    "lon": 2.4398066,
+    "mediaType": 1,
+    "userId": "8cf0a300-5c16-4c16-840b-669f3f1aabc2",
+    "username": "spoutnik75013",
+    "frontFacing": true,
+    "sharedStoryId": "globallivestory",
+    "timeLength": 9.036,
+    "postingFenceName": "Null Island",
+    "openNsfwScore": 0.022434035316109657,
+    "userScore": 8,
+    "userFriendCount": 102,
+    "userFollowingCount": 3,
+    "qualityScore": 0.3299008891956815,
+    "deviceModel": "SM-G950F",
+    "storyId": "W7_EDlXWTBiXAEEniNoMPwAAYCujUZE63iUy-AWEqsexVAWEqsejHAHanAA",
+    "mediaInfo": {
+      "mediaKey": "01jWOFxDaFrM+fa4M6HwpBKUndkAXhYA8tl/GtECrSU=",
+      "mediaIv": "k2gZY6Be2Ihr+XwHijDzXQ==",
+      "mediaUrl": "https://app.snapchat.com/bq/story_blob?story_id=fdv5CctjnS0w-6hkhVWY04g&t=10&mt=1",
+      "mediaId": "fdv5CctjnS0w-6hkhVWY04g",
+      "thumbnailIv": "ZwVmigaGXtbyDEwfvgzMgw==",
+      "clientId": "globallivestory~42ee062e8d7a8640915f0bf0b3a0633a"
+    },
+    "streamingMediaInfo": {
+      "prefixUrl": "https://s.sc-jpl.com/globallivestory~42ee062e8d7a8640915f0bf0b3a0633a/fdv5CctjnS0w-6hkhVWY04g/PUOq_gc5Hf0i7shrB2ABiP8Q6DcaNuitergRiC7uZxU=/default/",
+      "compositeUrl": "media_composite.zip",
+      "segmentCompositeUrl": "media_segment_composite.zip",
+      "segmentPreviewCompositeUrl": "media_seg_prev_composite.zip",
+      "previewUrl": "preview.jpg",
+      "mediaUrl": "media.mp4",
+      "mediaSize": "609770",
+      "mediaVideoUrl": "media_video.mp4",
+      "mediaVideoSize": "527640",
+      "mediaAudioUrl": "media_audio.mp4",
+      "mediaAudioSize": "81464",
+      "mediaVideoIndexSize": "1028",
+      "mediaVideoSegmentSize": [
+        "98677"
+      ],
+      "mediaAudioIndexSize": "963",
+      "mediaAudioSegmentSize": [
+        "13131"
+      ],
+      "mediaM3u8Url": "media_main.m3u8",
+      "muxedCompositeUrl": "media_muxed_composite.zip"
+    },
+    "videoDuration": 9.036044,
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        2.4398066,
+        48.8507615
+      ]
+    },
+    "contextHint": {
+      "hint": "ON",
+      "timestamp": "1516839758059"
+    }
+  },
+  {
+    "snapId": "glssubmittolive~c2419ead1b0e8d74a50f2f48c8534abe",
+    "originalTimestamp": 1516839748021,
+    "timestamp": 1516839748021,
+    "userTimestamp": 1516839688322,
+    "captureTimestamp": 1516839663038,
+    "bestTimestamp": 1516839663000,
+    "lat": 28.607577,
+    "lon": -81.207328,
+    "mediaType": 1,
+    "userId": "6c905388-d21e-4c40-b4af-be422f109049",
+    "username": "soft_louis",
+    "frontFacing": true,
+    "sharedStoryId": "glssubmittolive",
+    "timeLength": 6.30645525,
+    "postingFenceName": "SensitivityDefault_NorthSouthAmerica",
+    "tags": [
+      "person"
+    ],
+    "biggestHeadRatio": 0.4812890625,
+    "openNsfwScore": 0.04893936961889267,
+    "userScore": 11,
+    "userFriendCount": 278,
+    "userFollowingCount": 2,
+    "qualityScore": 0.43317609973379695,
+    "deviceModel": "iPhone9,4",
+    "storyId": "bJBTiNIeTEC0r75CLxCQSQAAIQc-B378yknrGAWEqscE8AWEqsNiCAAFRgA",
+    "mediaInfo": {
+      "mediaKey": "ytbUgBi5VEjRv+iy3RAdksjBg+o5pyqWSyhlyUsFPWA=",
+      "mediaIv": "KcqFf53Yl+be5/CJmV13tg==",
+      "mediaUrl": "https://app.snapchat.com/bq/story_blob?story_id=fBJUBDj42APkQFyRRU5Kpgg&t=1023&mt=1",
+      "mediaId": "fBJUBDj42APkQFyRRU5Kpgg",
+      "thumbnailIv": "nmPwZJ8Szq2OzF6ZuEccig==",
+      "clientId": "SOFT_LOUIS~46F04CB0-EA97-4711-A71D-C564A68A07A3"
+    },
+    "streamingMediaInfo": {
+      "prefixUrl": "https://s.sc-jpl.com/globallivestory~c2419ead1b0e8d74a50f2f48c8534abe/fkHM6b7R61rPyq1wDeYJb7g/l6Um6tIsZPEMfQXmuNA1LKDHkTd6tIvQX9axRFVQa-U=/default/",
+      "compositeUrl": "media_composite.zip",
+      "segmentCompositeUrl": "media_segment_composite.zip",
+      "segmentPreviewCompositeUrl": "media_seg_prev_composite.zip",
+      "previewUrl": "preview.jpg",
+      "mediaUrl": "media.mp4",
+      "mediaSize": "364110",
+      "mediaVideoUrl": "media_video.mp4",
+      "mediaVideoSize": "304167",
+      "mediaAudioUrl": "media_audio.mp4",
+      "mediaAudioSize": "57735",
+      "mediaVideoIndexSize": "997",
+      "mediaVideoSegmentSize": [
+        "81250"
+      ],
+      "mediaAudioIndexSize": "939",
+      "mediaAudioSegmentSize": [
+        "13861"
+      ],
+      "mediaM3u8Url": "media_main.m3u8",
+      "muxedCompositeUrl": "media_muxed_composite.zip"
+    },
+    "videoDuration": 6.273333,
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -81.207328,
+        28.607577
+      ]
+    },
+    "contextHint": {
+      "hint": "ON",
+      "timestamp": "1516839748051"
+    }
+  },
+  {
+    "snapId": "impressions18~8295b98d4d41003f07b16803d9528170",
+    "originalTimestamp": 1516839684953,
+    "timestamp": 1516839684953,
+    "userTimestamp": 1516839678883,
+    "captureTimestamp": 1516839646466,
+    "bestTimestamp": 1516839646000,
+    "lat": 36.025389,
+    "lon": -115.227393,
+    "mediaType": 1,
+    "zipped": true,
+    "userId": "fff86a95-7703-4e14-900c-4ac81804fdf1",
+    "username": "dj.geatano",
+    "sharedStoryId": "impressions18",
+    "filterId": "6402644081659904",
+    "encryptedGeoData": "BgAAAAcAAABrNDE3NTA2UQAAADckDxYf-Y2-5M-Lq7qFID_Q9IpTKaJgLvQQa0CZ8BP8eThajAnhMBDMQvCjC_5qJWZ0iRSNSe_z3G6sLN0Df9tDjHW0JfxwjwFAqtjz_VdLaRMAAABnZW9maWx0ZXItYW5hbHl0aWNzEAAAAB4TWUc_QtYGdmHxaNhy8Wc",
+    "timeLength": 1.899551513,
+    "postingFenceName": "fencezones_Zone 4- Region- C",
+    "tags": [
+      "slide",
+      "playground"
+    ],
+    "openNsfwScore": 0.0067221675999462605,
+    "userScore": 9,
+    "userFriendCount": 183,
+    "userFollowingCount": 2,
+    "qualityScore": 0.39938345386963703,
+    "deviceModel": "iPhone10,3",
+    "storyId": "__hqlXcDThSQDErIGAT98QAAItNld1WNfejPnAWEqsMrEAWEqsLOjAAFRgA",
+    "mediaInfo": {
+      "mediaKey": "gRNjWGcJSRK3xHfUpG2JDPp2QSpIzVBjZ3VirXVoUpU=",
+      "mediaIv": "Sh5ZTtLnFNwytED3bgWH1w==",
+      "mediaUrl": "https://app.snapchat.com/bq/story_blob?story_id=fKuTfRS1mo6iSVQ6bVsfvLQ&t=1023&mt=1",
+      "mediaId": "fKuTfRS1mo6iSVQ6bVsfvLQ",
+      "thumbnailIv": "NMnl/hNdNTwFo3ug2EL8pg==",
+      "zipped": true,
+      "clientId": "DJ.GEATANO~2E3B4C34-34F9-4402-BBA2-8A45933931E1"
+    },
+    "streamingMediaInfo": {
+      "prefixUrl": "https://s.sc-jpl.com/globallivestory~8295b98d4d41003f07b16803d9528170/f2TEQiN_mK-K3fTy9ZwK7kg/q7npWvd7iDbUhn8QcaK6kTcSMfcK70UIDKMC85QwO7E=/default/",
+      "compositeUrl": "media_composite.zip",
+      "segmentCompositeUrl": "media_segment_composite.zip",
+      "segmentPreviewCompositeUrl": "media_seg_prev_composite.zip",
+      "overlayUrl": "overlay.png",
+      "previewUrl": "preview.jpg",
+      "mediaUrl": "media.mp4",
+      "mediaSize": "116941",
+      "mediaVideoUrl": "media_video.mp4",
+      "mediaVideoSize": "98520",
+      "mediaAudioUrl": "media_audio.mp4",
+      "mediaAudioSize": "18341",
+      "mediaVideoIndexSize": "964",
+      "mediaVideoSegmentSize": [
+        "78937"
+      ],
+      "mediaAudioIndexSize": "903",
+      "mediaAudioSegmentSize": [
+        "13617"
+      ],
+      "mediaM3u8Url": "media_main.m3u8",
+      "muxedCompositeUrl": "media_muxed_composite.zip"
+    },
+    "videoDuration": 1.865,
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        -115.227393,
+        36.025389
+      ]
+    },
+    "contextHint": {
+      "hint": "ON",
+      "timestamp": "1516839685001"
+    }
+  }
+]
